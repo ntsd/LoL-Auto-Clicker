@@ -1,0 +1,2 @@
+To make it to work, u have to make as many minion hp pictures as there are minions with healthbars that you can lasthit and then edit that to the code.
+If you find this useful, make it to work. I didnt think this was any good idea afterall so I didnt bother to finish it even if i could've got it to work.
